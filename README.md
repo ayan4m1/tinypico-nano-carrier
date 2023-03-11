@@ -1,5 +1,15 @@
 # tinypico-nano-carrier
 
+A carrier/breakout board for the TinyPICO Nano.
+
+## Schematic
+
+![Schematic](./images/schematic.png)
+
+## Render
+
+![Board Render](./images/render.png)
+
 ## Bill of Materials
 
 - 1x TinyPICO Nano
